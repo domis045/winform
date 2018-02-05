@@ -1,0 +1,14 @@
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\Client.exe.config
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\Client.exe
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\Client.pdb
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.exe
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.pdb
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.Form1.resources
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\INIFileParser.dll
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Domantas\source\repos\L2UI\Client\obj\Debug\Client.Form2.resources
+C:\Users\Domantas\source\repos\L2UI\Client\bin\Debug\Bunifu_UI_v1.5.3.dll

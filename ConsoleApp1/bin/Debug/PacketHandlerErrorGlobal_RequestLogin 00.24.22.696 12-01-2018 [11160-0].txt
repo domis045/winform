@@ -1,0 +1,14 @@
+Base Exception Type: NetworkCommsDotNet.ConnectionShutdownException: Remote end closed connection before data was successfully returned.
+   at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[sendObjectType,returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds, sendObjectType sendObject, SendReceiveOptions sendOptions, SendReceiveOptions receiveOptions, Int64& sentPacketSequenceNumber)
+   at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[sendObjectType,returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds, sendObjectType sendObject, SendReceiveOptions sendOptions, SendReceiveOptions receiveOptions)
+   at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds)
+   at ConsoleApp1.Server.<>c.<Main>b__1_0(PacketHeader packetHeader, Connection connection, Int32 input) in C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\Server.cs:line 31
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[sendObjectType,returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds, sendObjectType sendObject, SendReceiveOptions sendOptions, SendReceiveOptions receiveOptions, Int64& sentPacketSequenceNumber)
+   at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[sendObjectType,returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds, sendObjectType sendObject, SendReceiveOptions sendOptions, SendReceiveOptions receiveOptions)
+   at NetworkCommsDotNet.Connections.Connection.SendReceiveObject[returnObjectType](String sendingPacketTypeStr, String expectedReturnPacketTypeStr, Int32 returnPacketTimeOutMilliSeconds)
+   at ConsoleApp1.Server.<>c.<Main>b__1_0(PacketHeader packetHeader, Connection connection, Int32 input) in C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\Server.cs:line 31
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

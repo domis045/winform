@@ -1,0 +1,9 @@
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\bin\Debug\INIFileParser.dll
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Domantas\source\repos\L2UI\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

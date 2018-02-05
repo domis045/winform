@@ -1,0 +1,9 @@
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\bin\Debug\INIFileParser.dll
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Domantas\source\repos\L2UI\ConsoleApp1\obj\Debug\Server.csprojResolveAssemblyReference.cache
